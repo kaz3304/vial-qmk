@@ -1,0 +1,9 @@
+BOOTLOADER = dfu
+#BACKLIGHT_ENABLE ?= yes  # Enable keyboard backlight functionality
+RGBLIGHT_ENABLE = yes
+ENCODER_ENABLE = yes
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+VIAL_INSECURE = yes
+VIAL_ENCODERS_ENABLE = yes
+LTO_ENABLE = yes
